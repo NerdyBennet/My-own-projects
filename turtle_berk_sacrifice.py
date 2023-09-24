@@ -39,7 +39,7 @@ right(70)
 forward(30)
 penup()
 goto(0,0)
-turtle.setheading(0)
+turtle.setheading(0) # resets the pointers position
 right(90)
 pendown()
 forward(185)
