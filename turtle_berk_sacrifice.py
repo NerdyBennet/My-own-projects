@@ -19,7 +19,7 @@ right(90)
 forward(70)
 penup()
 
-# middle part of the brand of sacrifice
+# middle part of the brand of sacrifice + lower half
 goto(0,0)
 left(45)
 pendown()
@@ -28,7 +28,7 @@ forward(180)
 print(pos())
 penup()
 goto(0,150)
-width(14)
+width(15)
 pendown()
 left(35)
 forward(30)
